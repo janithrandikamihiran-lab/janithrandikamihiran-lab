@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Full-Stack+Innovator;Creative+Designer;GSC+Matale+Representative;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Full-Stack+Innovator;Creative+Designer;Janith+Randika+Mihiran;GSC+Representative;Future+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <tr>
     <td width="50%">
       <h3>🛸 Current Orbit</h3>
-      <ul>
+      <ul>3
         <li>🔭 <b>Working on:</b> <a href="https://janithrandikamihiran-lab.github.io/Gsc2026project/">Science College Tech Portal</a></li>
         <li>🌱 <b>Learning:</b> Advanced JavaScript & Backend Systems</li>
         <li>💬 <b>Ask me:</b> Anything about Science College Matale</li>
